@@ -20,6 +20,7 @@ public class MyGridVIew extends GridLayout {
 
     private int rowX = 4;
     private int rowY = 4;
+
     private CardView[][] cardViews = new CardView[rowX][rowY];
     private List<Point> emptyPoints = new ArrayList<>();
 
